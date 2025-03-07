@@ -1,0 +1,16 @@
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "rules": {
+    "no-unused-vars": "warn",
+    "no-console": "off",
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "curly": ["error", "multi-line"],
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ]
+  }
+}
