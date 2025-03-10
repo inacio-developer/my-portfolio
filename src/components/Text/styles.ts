@@ -69,15 +69,18 @@ const TitleLink = styled.a`
 const DivTag = styled.div`
   display: flex;
   gap: 0.6rem;
+  flex-wrap: wrap;
 `;
 const DivText = styled.div`
   margin-top: 2.8rem;
   p,
-  blockquote {
+  blockquote,
+  pre {
     font-size: ${({ theme }) => theme.font.size.text};
     line-height: 2.5rem;
     letter-spacing: 0.01rem;
     margin: 1.5rem 0;
+    white-space: normal;
   }
   p {
     &:first-of-type {
@@ -91,6 +94,7 @@ const DivText = styled.div`
 const TextDetailsProject = styled.div`
   display: block;
   margin-top: 2rem;
+
   section {
     padding: 0.15rem 0;
     &:last-of-type {
@@ -98,8 +102,19 @@ const TextDetailsProject = styled.div`
     }
   }
   p {
+    display: inline-block;
     margin: 0;
     transform: translate3d(138px, 0px, 0px);
+  }
+
+  a {
+    @media only screen and (max-width: 600px) {
+      display: inline-block;
+      width: 150px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
   }
 `;
 export {
