@@ -4,10 +4,10 @@ const theme = {
     alternative: '#eeeeee',
     gray: '#8C8C8C',
     light: '#e8e8e8',
-    black: '#2b373d',
+    black: '#595959',
     hover: '#9F9F9F',
     hoverTwo: '#e8e8e8',
-    hoverBlack: '#2b373d',
+    hoverBlack: '#595959',
   },
   font: {
     family: 'Nunito',
@@ -27,7 +27,7 @@ const theme = {
       tooltip: '1.2rem',
     },
     color: {
-      primary: '#2E2E2E',
+      primary: '#595959',
       alternative: '#606060',
     },
   },
