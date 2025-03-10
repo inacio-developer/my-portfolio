@@ -3,20 +3,24 @@ import * as S from './styles';
 const Me = (): JSX.Element => (
   <>
     <S.Text>
-      Eu sou Rafael Inácio, desenvolvedor web em constante evolução com
-      experiência no front e back-end. Sempre busco aprimorar minhas habilidades
-      para entregar soluções inovadoras e eficientes.
+      Sou Rafael Inácio, um desenvolvedor web com experiência em HTML,
+      JavaScript, React, Node.js, pré-processadores CSS e integração com APIs.
+      Já desenvolvi projetos que envolvem consumo de dados externos e criação de
+      interfaces dinâmicas.
     </S.Text>
     <S.Text>
-      Participei da criação de um software para minha cidade, atuando como
-      intermediador da comunicação entre equipes. Essa experiência foi essencial
-      para garantir a integração e a eficiência no projeto.
+      Durante o desenvolvimento de um software para minha cidade, atuei como
+      ponte entre as equipes, facilitando a comunicação e alinhando ideias entre
+      os setores para garantir a eficiência do projeto.
     </S.Text>
     <S.Text>
-      Minha atuação é versátil: desenvolvo interfaces dinâmicas e responsivas no
-      front-end, enquanto no back-end, crio sistemas robustos e conectados a
-      bancos de dados e APIs. Com isso, contribuo em todas as etapas de um
-      projeto, da concepção à entrega.
+      No front-end, desenvolvo interfaces responsivas e interativas, enquanto no
+      back-end, crio APIs e conecto sistemas a bancos de dados.
+    </S.Text>
+    <S.Text>
+      Busco contribuir em todas as etapas do projeto e atuar como uma peça
+      versátil para minha equipe, adaptando-me às necessidades e agregando valor
+      onde for necessário.
     </S.Text>
   </>
 );
