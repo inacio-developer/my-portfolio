@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/my-portfolio/static/js/main.d30d458c.js",
+    "main.js": "/my-portfolio/static/js/main.7ed0bd79.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/gif-resume.gif": "/my-portfolio/static/media/gif-resume.c7f0bf9c597c708f61a5.gif",
-    "static/media/cv-Rafael-Inacio.docx.pdf": "/my-portfolio/static/media/cv-Rafael-Inacio.docx.599708cf66d896a20009.pdf",
+    "static/media/cv-Rafael-Inacio.docx.pdf": "/my-portfolio/static/media/cv-Rafael-Inacio.docx.43a2840a696a26a16405.pdf",
     "static/media/Nunito-Medium.ttf": "/my-portfolio/static/media/Nunito-Medium.06740446a9f13288701b.ttf",
     "static/media/Nunito-Regular.ttf": "/my-portfolio/static/media/Nunito-Regular.9d7a6e03c6e3ed49c7ac.ttf",
     "static/media/Nunito-Bold.ttf": "/my-portfolio/static/media/Nunito-Bold.275dd55e10ba966bcb9b.ttf",
@@ -38,10 +38,10 @@
     "static/media/stacks-html.svg": "/my-portfolio/static/media/stacks-html.2e89d6909f6335e194399ca2ec693238.svg",
     "static/media/stacks-css.svg": "/my-portfolio/static/media/stacks-css.36010eba4ee5aef95141b01a90d663ca.svg",
     "static/media/stacks-react.svg": "/my-portfolio/static/media/stacks-react.3a03708e42481565259f85329d20b695.svg",
-    "main.d30d458c.js.map": "/my-portfolio/static/js/main.d30d458c.js.map",
+    "main.7ed0bd79.js.map": "/my-portfolio/static/js/main.7ed0bd79.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d30d458c.js"
+    "static/js/main.7ed0bd79.js"
   ]
 }
