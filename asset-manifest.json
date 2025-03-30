@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/my-portfolio/static/js/main.7ed0bd79.js",
+    "main.js": "/my-portfolio/static/js/main.2bb759b0.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/gif-resume.gif": "/my-portfolio/static/media/gif-resume.c7f0bf9c597c708f61a5.gif",
     "static/media/cv-Rafael-Inacio.docx.pdf": "/my-portfolio/static/media/cv-Rafael-Inacio.docx.43a2840a696a26a16405.pdf",
@@ -38,10 +38,10 @@
     "static/media/stacks-html.svg": "/my-portfolio/static/media/stacks-html.2e89d6909f6335e194399ca2ec693238.svg",
     "static/media/stacks-css.svg": "/my-portfolio/static/media/stacks-css.36010eba4ee5aef95141b01a90d663ca.svg",
     "static/media/stacks-react.svg": "/my-portfolio/static/media/stacks-react.3a03708e42481565259f85329d20b695.svg",
-    "main.7ed0bd79.js.map": "/my-portfolio/static/js/main.7ed0bd79.js.map",
+    "main.2bb759b0.js.map": "/my-portfolio/static/js/main.2bb759b0.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7ed0bd79.js"
+    "static/js/main.2bb759b0.js"
   ]
 }
