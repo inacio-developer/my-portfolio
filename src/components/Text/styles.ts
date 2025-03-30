@@ -81,7 +81,9 @@ const DivText = styled.div`
     letter-spacing: 0.01rem;
     margin: 1.5rem 0;
     white-space: normal;
+    word-break: break-word;
   }
+
   p {
     &:first-of-type {
       margin-top: 0;
